@@ -1,0 +1,13 @@
+header {
+  text-align: center;
+}
+
+.aside {
+  display: inline-block;
+  width: 30%;
+}
+
+.main-content {
+  display: inline-block;
+  width: 70%;
+}
